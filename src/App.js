@@ -35,7 +35,7 @@ export default function App() {
     setProgress(progress);
   }
   return (
-    <Router>
+    <Router basename='/react2/'>
       <div style={{ paddingTop: '3.5rem' }}>
         <Navbar />
         <LoadingBar

@@ -26,7 +26,7 @@ export default function App() {
     api = "e6b7dc89451713162924d861972581ce"
   }
   else if (newsSourse === "newscatcherapi") {
-    api = "I-xYk9clo9G3jkvC06bFW1LynSvD7TbD5_TzRjvJex8";
+    api = "HiabYBp6ReLCxtx1DbjLIdfWigr28bJUmkTUSWyaGR8";
   }
 
   // progress bar while dom is loading
